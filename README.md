@@ -4,4 +4,4 @@ This Web-Tour features 3 places in the Yong Siew Toh Conservatory of Music in Na
 
 Tour link: https://carriezhengjr.github.io/YongSiewTohConservatoryOfMusic/ 
 
-(Created on 12 May 2022, completed on 13 May 2022.)
+(Created on 12 May 2022, completed on 13 May 2022 as assignment for NUS Jumpstart Minis session Web-Tour Maker.)
